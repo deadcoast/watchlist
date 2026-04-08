@@ -12,19 +12,19 @@
 }
 ```
 
-[!FAM.jpg]
+![For-All-Mankind](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM.jpeg)
 
 ### 1.1 Trailer
 
-[ForAllMankind-S1-Trailer](https://www.youtube.com/watch?v=HZS9M52Bd_w)
+[For-All-Mankind-S1-Trailer](https://www.youtube.com/watch?v=HZS9M52Bd_w)
 
 ### 1.2 Ratings
 
 - ![FAM-RT.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM-RT.png)
 - ![Rotten-Tomatoes-Review](https://www.rottentomatoes.com/tv/for_all_mankind)
 
-- [!FAM-IMDB.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM-RT.png)
-- [IMDB-Review](https://www.imdb.com/title/tt7772588/)
+- ![FAM-IMDB.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM-RT.png)
+- ![IMDB-Review](https://www.imdb.com/title/tt7772588/)
 
 ## 2. Paradise
 
@@ -38,15 +38,15 @@
 }
 ```
 
-[!PAR]
+![PAR](https://github.com/deadcoast/watchlist/blob/main/assets/posters/PAR.avif)
 
 ### 2.1 Trailer
 
-[Paradise-S1-Trailer](https://www.youtube.com/watch?v=tCObCpYScdE)
+[Paradise Season 1 Trailer](https://www.youtube.com/watch?v=tCObCpYScdE)
 
 ### 2.2 Ratings
 
-- [!PAR-RT.png](https://www.rottentomatoes.com/tv/for_all_mankind)
-- [!PAR-IMDB.png](https://www.imdb.com/title/tt7772588/)
+- ![PAR-RT.png](https://www.rottentomatoes.com/tv/for_all_mankind)
+- ![PAR-IMDB.png](https://www.imdb.com/title/tt7772588/)
 
 ---
