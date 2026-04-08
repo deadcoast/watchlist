@@ -21,10 +21,10 @@
 ### 1.2 Ratings
 
 - ![FAM-RT.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM-RT.png)
-- ![Rotten-Tomatoes-Review](https://www.rottentomatoes.com/tv/for_all_mankind)
+  - [Rotten-Tomatoes-Review](https://www.rottentomatoes.com/tv/for_all_mankind)
 
 - [FAM-IMDB.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM-IMDB.png)
-- [IMDB-Review](https://www.imdb.com/title/tt7772588/)
+  - [IMDB-Review](https://www.imdb.com/title/tt7772588/)
 
 ## 2. Paradise
 
