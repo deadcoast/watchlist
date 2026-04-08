@@ -23,8 +23,8 @@
 - ![FAM-RT.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM-RT.png)
 - ![Rotten-Tomatoes-Review](https://www.rottentomatoes.com/tv/for_all_mankind)
 
-- ![FAM-IMDB.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM-RT.png)
-- ![IMDB-Review](https://www.imdb.com/title/tt7772588/)
+- [FAM-IMDB.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/FAM-IMDB.png)
+- [IMDB-Review](https://www.imdb.com/title/tt7772588/)
 
 ## 2. Paradise
 
@@ -42,11 +42,14 @@
 
 ### 2.1 Trailer
 
-[Paradise Season 1 Trailer](https://www.youtube.com/watch?v=tCObCpYScdE)
+[Paradise-S1-Trailer](https://www.youtube.com/watch?v=tCObCpYScdE)
 
 ### 2.2 Ratings
 
-- ![PAR-RT.png](https://www.rottentomatoes.com/tv/for_all_mankind)
-- ![PAR-IMDB.png](https://www.imdb.com/title/tt7772588/)
+- ![PAR-RT.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/PAR-RT.png)
+  - [PAR-Rotten-Tomatoes-Review](https://www.rottentomatoes.com/tv/for_all_mankind)
+
+- ![PAR-IMDB.png](https://github.com/deadcoast/watchlist/blob/main/assets/posters/PAR-IMDB.png)
+  - [PAR-IMDB-Review](https://www.imdb.com/title/tt7772588/)
 
 ---
