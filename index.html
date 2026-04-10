@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Watchlist</title>
+    <meta
+      name="description"
+      content="A poster-first watchlist for For All Mankind and Paradise, built for GitHub Pages."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">GitHub Pages Edition</p>
+          <h1>Watchlist</h1>
+          <p class="hero-text">
+            A cleaner home for the shows currently on deck, rebuilt from markdown into a visual
+            page that is easier to scan, share, and keep expanding.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#shows">Open The Queue</a>
+            <a class="button button-secondary" href="watchlist.backup.md">View Markdown Backup</a>
+          </div>
+        </div>
+
+        <aside class="hero-panel">
+          <p class="panel-label">Current slate</p>
+          <div class="hero-stats">
+            <div>
+              <span class="stat-value">2</span>
+              <span class="stat-label">Shows</span>
+            </div>
+            <div>
+              <span class="stat-value">6</span>
+              <span class="stat-label">Tracked seasons</span>
+            </div>
+            <div>
+              <span class="stat-value">4</span>
+              <span class="stat-label">Review links</span>
+            </div>
+          </div>
+          <p class="panel-note">
+            Built as a plain static site so GitHub Pages can publish it directly from the default
+            branch root.
+          </p>
+        </aside>
+      </header>
+
+      <main>
+        <section class="section-heading" id="shows">
+          <p class="eyebrow">Current Picks</p>
+          <h2>Poster-first cards with the links that matter</h2>
+        </section>
+
+        <section class="show-grid" aria-label="Watchlist shows">
+          <article class="show-card">
+            <div class="card-media">
+              <img src="assets/posters/FAM.jpeg" alt="For All Mankind poster" />
+              <span class="card-index">01</span>
+            </div>
+
+            <div class="card-copy">
+              <div class="card-header">
+                <div>
+                  <p class="show-type">Alternate history sci-fi</p>
+                  <h3>For All Mankind</h3>
+                </div>
+                <span class="season-pill">5 seasons</span>
+              </div>
+
+              <p class="show-summary">
+                NASA never loses momentum in this timeline, and the space race keeps escalating
+                into a long-form alternate history drama.
+              </p>
+
+              <ul class="rating-list" aria-label="For All Mankind ratings">
+                <li><strong>IMDb</strong><span>8.1 / 10</span></li>
+                <li><strong>Rotten Tomatoes</strong><span>92%</span></li>
+              </ul>
+
+              <div class="link-row">
+                <a
+                  class="button button-primary"
+                  href="https://www.youtube.com/watch?v=HZS9M52Bd_w"
+                  target="_blank"
+                  rel="noreferrer"
+                  >Watch trailer</a
+                >
+                <a
+                  class="button button-secondary"
+                  href="https://www.imdb.com/title/tt7772588/"
+                  target="_blank"
+                  rel="noreferrer"
+                  >IMDb page</a
+                >
+                <a
+                  class="button button-secondary"
+                  href="https://www.rottentomatoes.com/tv/for_all_mankind"
+                  target="_blank"
+                  rel="noreferrer"
+                  >RT page</a
+                >
+              </div>
+
+              <div class="scoreboard">
+                <a
+                  class="score-tile"
+                  href="https://www.rottentomatoes.com/tv/for_all_mankind"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="assets/posters/FAM-RT.png" alt="For All Mankind Rotten Tomatoes score" />
+                  <span>Rotten Tomatoes snapshot</span>
+                </a>
+                <a
+                  class="score-tile"
+                  href="https://www.imdb.com/title/tt7772588/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="assets/posters/FAM-IMDB.png" alt="For All Mankind IMDb score" />
+                  <span>IMDb snapshot</span>
+                </a>
+              </div>
+            </div>
+          </article>
+
+          <article class="show-card">
+            <div class="card-media">
+              <img src="assets/posters/PAR.avif" alt="Paradise poster" />
+              <span class="card-index">02</span>
+            </div>
+
+            <div class="card-copy">
+              <div class="card-header">
+                <div>
+                  <p class="show-type">Political mystery thriller</p>
+                  <h3>Paradise</h3>
+                </div>
+                <span class="season-pill">1 season</span>
+              </div>
+
+              <p class="show-summary">
+                A glossy conspiracy thriller with a locked-environment setup, high-level politics,
+                and a slow reveal underneath the calm exterior.
+              </p>
+
+              <ul class="rating-list" aria-label="Paradise ratings">
+                <li><strong>IMDb</strong><span>7.9 / 10</span></li>
+                <li><strong>Rotten Tomatoes</strong><span>88%</span></li>
+              </ul>
+
+              <div class="link-row">
+                <a
+                  class="button button-primary"
+                  href="https://www.youtube.com/watch?v=tCObCpYScdE"
+                  target="_blank"
+                  rel="noreferrer"
+                  >Watch trailer</a
+                >
+                <a
+                  class="button button-secondary"
+                  href="https://www.imdb.com/title/tt27444205/"
+                  target="_blank"
+                  rel="noreferrer"
+                  >IMDb page</a
+                >
+                <a
+                  class="button button-secondary"
+                  href="https://www.rottentomatoes.com/tv/paradise_2025"
+                  target="_blank"
+                  rel="noreferrer"
+                  >RT page</a
+                >
+              </div>
+
+              <div class="scoreboard">
+                <a
+                  class="score-tile"
+                  href="https://www.rottentomatoes.com/tv/paradise_2025"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="assets/posters/PAR-RT.png" alt="Paradise Rotten Tomatoes score" />
+                  <span>Rotten Tomatoes snapshot</span>
+                </a>
+                <a
+                  class="score-tile"
+                  href="https://www.imdb.com/title/tt27444205/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="assets/posters/PAR-IMDB.png" alt="Paradise IMDb score" />
+                  <span>IMDb snapshot</span>
+                </a>
+              </div>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
